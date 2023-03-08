@@ -31,3 +31,4 @@
 * [File.io](https://www.file.io/)
 * [Wikisend](https://wikisend.com/)
 * [UFile](https://ufile.io/)
+* [KrakenFiles](https://krakenfiles.com/)
