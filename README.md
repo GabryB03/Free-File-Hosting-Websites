@@ -14,7 +14,7 @@
 * [Hightail](https://www.hightail.com/)
 * [DropSend](https://www.dropsend.com/)
 * [WeTransfer](https://wetransfer.com/)
-* [AnonFiles](https://anonfiles.com/)
+* [AnonFiles](https://anonfile.net/)
 * [Internxt](https://internxt.com/)
 * [Sync](https://www.sync.com/)
 * [Icedrive](https://icedrive.net/)
