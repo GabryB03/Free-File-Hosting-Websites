@@ -1,5 +1,6 @@
 # Free File Hosting Websites
 * [Pixeldrain](https://pixeldrain.com/)
+* [Catbox](https://catbox.moe/)
 * [RDrop](https://rdrop.link/)
 * [MediaFire](https://www.mediafire.com/)
 * [4Shared](https://www.4shared.com/)
