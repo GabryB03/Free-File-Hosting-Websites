@@ -1,4 +1,5 @@
 # Free File Hosting Websites
+* [GoFile](https://gofile.io/)
 * [Pixeldrain](https://pixeldrain.com/)
 * [Catbox](https://catbox.moe/)
 * [RDrop](https://rdrop.link/)
