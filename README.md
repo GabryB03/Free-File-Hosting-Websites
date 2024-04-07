@@ -1,6 +1,7 @@
 # Free File Hosting Websites
 * [Mirrored](https://www.mirrored.to/)
 * [GoFile](https://gofile.io/)
+* [MegaUp](https://megaup.net/)
 * [Pixeldrain](https://pixeldrain.com/)
 * [Catbox](https://catbox.moe/)
 * [RDrop](https://rdrop.link/)
